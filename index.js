@@ -1,4 +1,4 @@
-const compileConfig = require('bpmnlint/lib/support/compile-config');
+const compileConfig = require('bpmnlint/lib/support/compile-config.js');
 
 
 async function bpmnlintLoader(source) {
